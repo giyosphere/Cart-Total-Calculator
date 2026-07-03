@@ -21,3 +21,5 @@ Calculates subtotal, discount, tax, and total for a list of cart items.
 - `calculateDiscount(subtotal, discountPercent)` — returns the discount amount.
 - `calculateTax(amountAfterDiscount, taxPercent)` — returns the tax amount, computed after the discount is applied.
 - `createCartSummary(items, discountPercent, taxPercent)` — returns `{ subtotal, discount, tax, total }`.
+## Project URL
+https://roadmap.sh/projects/js-cart-total-calculator
